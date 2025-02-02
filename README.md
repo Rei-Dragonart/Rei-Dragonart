@@ -41,7 +41,7 @@ _EN-Edition_
   - Programming Language:
     - Java
   - Contact: _This is not possible yet._
-   - About me:
+  - About me:
     - Beginner user Arch Linux, trying to create my environment "Myr_Linux" - (Hyperland)
     - I studied Java in order to write plugins for `Minecraft` and write my bot for `Discord`.
 </div>
