@@ -20,7 +20,7 @@
     - Java
   - Связь со мной: _Пока что это невозможно._
   - О себе:
-    - Начинающий пользователь Arch Linux, пытаюсь создать свое окружение "MyR_Linux" - (HyperLand)
+    - Начинающий пользователь Arch Linux, пытаюсь создать свое окружение "MyR_Linux" - (HyprLand)
     - Изучил Java для того, чтобы писать плагины для `Minecraft` и написать своего бота для `Discord`.
 
 <!-- [ EN Language ] -->
@@ -42,7 +42,7 @@ _EN-Edition_
     - Java
   - Contact: _This is not possible yet._
   - About me:
-    - Beginner user Arch Linux, trying to create my environment "Myr_Linux" - (Hyperland)
+    - Beginner user Arch Linux, trying to create my environment "Myr_Linux" - (HyprLand)
     - I studied Java in order to write plugins for `Minecraft` and write my bot for `Discord`.
 </div>
 
